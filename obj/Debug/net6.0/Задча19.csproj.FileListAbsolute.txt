@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\bin\Debug\net6.0\Задча19.exe
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\bin\Debug\net6.0\Задча19.deps.json
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\bin\Debug\net6.0\Задча19.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\bin\Debug\net6.0\Задча19.dll
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\bin\Debug\net6.0\Задча19.pdb
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.dll
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\refint\Задча19.dll
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.pdb
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\Задча19.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ДЗ Семинар 3\Задча19\obj\Debug\net6.0\ref\Задча19.dll
